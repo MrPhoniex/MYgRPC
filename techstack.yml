@@ -1,0 +1,44 @@
+repo_name: MrPhoniex/MYgRPC
+report_id: d21305e10097f59ffe3716aa11dbb70f
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-05T08:19:20+00:00'
+requested_by: MrPhoniex
+provider: github
+branch: main
+detected_tools_count: 3
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/MrPhoniex/MYgRPC
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/MrPhoniex/MYgRPC
+  detection_source: Repo Metadata
+- name: org.projectlombok:lombok
+  description: 'Spice up your java: Automatic Resource Management'
+  version: 1.18.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/MrPhoniex/MYgRPC/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: MrPhoniex
+  last_updated_on: 2023-04-03 12:35:59.000000000 Z
